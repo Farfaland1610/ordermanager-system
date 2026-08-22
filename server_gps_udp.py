@@ -7,7 +7,7 @@ UDP_PORT = 9090
 DB_CONFIG = {
     "dbname": "bd_order_manager",
     "user": "postgres",
-    "password": "your_password",
+    "password": "admin",
     "host": "localhost",
     "port": "5432"
 }

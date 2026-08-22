@@ -5,7 +5,7 @@ import psycopg2
 DB_CONFIG = {
     "dbname": "bd_order_manager",
     "user": "postgres",
-    "password": "your_password",  # Cambia por tu contraseña de Postgres
+    "password": "admin",  # Cambia por tu contraseña de Postgres
     "host": "localhost",
     "port": "5432"
 }
