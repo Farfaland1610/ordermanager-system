@@ -2,6 +2,9 @@
 
 Este repositorio contiene la implementación del sistema **OrderManager**, encargado de la logística operativa, procesamiento de pedidos con cobro TCP y recepción de coordenadas GPS en tiempo real vía UDP.
 
+Obs: Primero se debe ejecutar 
+
+
 ## 🛠️ Tecnología y Arquitectura de Red
 - **Lenguaje:** Python 3.8+
 - **Protocolos de Transporte:**
